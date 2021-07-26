@@ -1,0 +1,23 @@
+{
+  "name": "frontend-prodject-lvl1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "https://github.com/AndreyShulin/frontend-project-lvl1/workflows/hexlet-check/badge.svg",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyShulin/frontend-project-lvl1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyShulin/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/AndreyShulin/frontend-project-lvl1#readme"
+}
