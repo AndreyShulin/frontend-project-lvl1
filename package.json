@@ -1,0 +1,32 @@
+{
+  "name": "@hexlet/code",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "https://github.com/AndreyShulin/frontend-project-lvl1/workflows/hexlet-check/badge.svg",
+  "main": "index.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyShulin/frontend-project-lvl1.git"
+  },
+  "author": "Andrey Shulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyShulin/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/AndreyShulin/frontend-project-lvl1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "eslint-plugin-jest": "^24.4.0"
+  }
+}
